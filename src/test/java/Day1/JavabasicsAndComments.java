@@ -4,7 +4,7 @@ package Day1;
  * Documented Comment
  * @Author can be mentioned here
  */
-public class Test {
+public class JavabasicsAndComments {
 
     public static void main(String[] args) {
 
